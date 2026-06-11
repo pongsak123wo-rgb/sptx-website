@@ -1,1 +1,0 @@
-# sptx-website
