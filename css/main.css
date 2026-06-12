@@ -335,4 +335,3 @@ ul{list-style:none}
 .dropdown-menu li.dd-group{padding:7px 20px 4px;font-family:'Kanit',sans-serif;font-size:11px;font-weight:700;color:var(--accent);text-transform:uppercase;letter-spacing:.8px;background:rgba(0,0,0,.2);pointer-events:none;cursor:default}
 /* Sidebar group labels */
 .sidebar-links li.dd-sidebar-group{padding:8px 18px 4px;font-family:'Kanit',sans-serif;font-size:11px;font-weight:600;color:var(--accent);text-transform:uppercase;letter-spacing:.8px;background:var(--light-bg);border-bottom:1px solid var(--border);pointer-events:none;cursor:default}
-                                                                                                                                                                                                                                                                                                                                                                                     
